@@ -28,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
+## String
+|  |
+| ------- |
+| [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
