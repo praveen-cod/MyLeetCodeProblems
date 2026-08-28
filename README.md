@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
