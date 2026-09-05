@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+## Greedy
+|  |
+| ------- |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
