@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-minimum-cost-to-reach-every-position](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Tree
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -87,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
+## Two Pointers
+|  |
+| ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 <!---LeetCode Topics End-->
