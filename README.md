@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
