@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0120-triangle) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [3870-count-commas-in-range](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## String
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
@@ -124,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0064-minimum-path-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
