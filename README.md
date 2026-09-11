@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Counting
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
