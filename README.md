@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0052-n-queens-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
