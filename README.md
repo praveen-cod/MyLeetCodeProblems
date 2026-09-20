@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0052-n-queens-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
