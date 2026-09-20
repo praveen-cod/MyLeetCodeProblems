@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0185-department-top-three-salaries) |
 | [1179-reformat-department-table](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
