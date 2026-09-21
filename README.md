@@ -159,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0185-department-top-three-salaries) |
 | [0610-triangle-judgement](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0610-triangle-judgement) |
 | [1179-reformat-department-table](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
