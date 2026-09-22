@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0120-triangle) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0120-triangle) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0610-triangle-judgement) |
 | [1179-reformat-department-table](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1211-queries-quality-and-percentage) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
