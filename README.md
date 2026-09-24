@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0060-permutation-sequence) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## String
