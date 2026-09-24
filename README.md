@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0064-minimum-path-sum) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Quicksort
 |  |
 | ------- |
