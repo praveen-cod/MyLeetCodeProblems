@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0091-decode-ways) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
