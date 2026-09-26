@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0091-decode-ways) |
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
