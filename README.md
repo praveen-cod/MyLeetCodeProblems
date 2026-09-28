@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -148,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Sliding Window
 |  |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0064-minimum-path-sum) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Quicksort
 |  |
