@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0060-permutation-sequence) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
