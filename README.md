@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0091-decode-ways) |
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -203,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
