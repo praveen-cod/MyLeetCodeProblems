@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -209,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Linked List
 |  |
 | ------- |
