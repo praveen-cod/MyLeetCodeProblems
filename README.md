@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -241,4 +242,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Design
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
