@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0929-unique-email-addresses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0929-unique-email-addresses) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0929-unique-email-addresses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0929-unique-email-addresses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -111,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
