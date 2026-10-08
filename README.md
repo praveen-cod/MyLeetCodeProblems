@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Matrix
 |  |
