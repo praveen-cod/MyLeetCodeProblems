@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
