@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2460-apply-operations-to-an-array](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2601-prime-subtraction-operation) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2460-apply-operations-to-an-array](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
