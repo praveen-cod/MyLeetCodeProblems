@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bracket Sequences
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
 | [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
 | [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
 ## Number Theory
 |  |
