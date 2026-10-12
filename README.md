@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
