@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
@@ -299,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
