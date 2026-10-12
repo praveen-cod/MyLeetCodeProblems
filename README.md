@@ -40,21 +40,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2601-prime-subtraction-operation](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2601-prime-subtraction-operation) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
