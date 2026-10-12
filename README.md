@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0976-largest-perimeter-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0976-largest-perimeter-triangle) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
 | ------- |
