@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2236-root-equals-sum-of-children](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2236-root-equals-sum-of-children](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2236-root-equals-sum-of-children) |
 ## Hash Table
 |  |
 | ------- |
