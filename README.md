@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2601-prime-subtraction-operation](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2601-prime-subtraction-operation) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3945-digit-frequency-score) |
 ## String
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2601-prime-subtraction-operation](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2601-prime-subtraction-operation) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
