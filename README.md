@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0322-coin-change) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0929-unique-email-addresses](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0942-di-string-match) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0322-coin-change) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
@@ -385,4 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0901-online-stock-span) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
