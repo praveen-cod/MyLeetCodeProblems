@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2671-frequency-tracker](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2671-frequency-tracker) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/1472-design-browser-history) |
+| [2671-frequency-tracker](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/2671-frequency-tracker) |
 | [3829-design-ride-sharing-system](https://github.com/praveen-cod/MyLeetCodeProblems/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
